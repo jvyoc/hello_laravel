@@ -37,7 +37,7 @@ test
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello Laravel! - by Yongcheng Chen <p>陈勇丞 </p></div>
+                <div class="title">Hello Laravel! - by Yongcheng Chen </div>
             </div>
         </div>
     </body>
